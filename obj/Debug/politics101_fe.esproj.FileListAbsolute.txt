@@ -1,0 +1,2 @@
+C:\Users\User\source\repos\politics101\politics101_fe\obj\Debug\politics101_fe.esproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\politics101\politics101_fe\obj\Debug\politics101_fe.esproj.CoreCompileInputs.cache
